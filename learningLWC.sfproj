@@ -18,7 +18,13 @@
   <ItemGroup>
     <Folder Include="AnonymousApex" />
     <Folder Include="lwc" />
+    <Folder Include="lwc\bikeCard\" />
+    <Folder Include="lwc\data\" />
+    <Folder Include="lwc\detail\" />
     <Folder Include="lwc\helloWorld\" />
+    <Folder Include="lwc\list\" />
+    <Folder Include="lwc\selector\" />
+    <Folder Include="lwc\tile\" />
     <Folder Include="objects\" />
     <Folder Include="Soql" />
   </ItemGroup>
@@ -401,6 +407,60 @@
     </Object>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="lwc\bikeCard\bikeCard.css">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\bikeCard\bikeCard.css</PhysicalRelativePath>
+      <BundleName>bikeCard</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\bikeCard\bikeCard.html">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\bikeCard\bikeCard.html</PhysicalRelativePath>
+      <BundleName>bikeCard</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\bikeCard\bikeCard.js">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\bikeCard\bikeCard.js</PhysicalRelativePath>
+      <BundleName>bikeCard</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\data\data.css">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\data\data.css</PhysicalRelativePath>
+      <BundleName>data</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\data\data.html">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\data\data.html</PhysicalRelativePath>
+      <BundleName>data</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\data\data.js">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\data\data.js</PhysicalRelativePath>
+      <BundleName>data</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\detail\detail.css">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\detail\detail.css</PhysicalRelativePath>
+      <BundleName>detail</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\detail\detail.html">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\detail\detail.html</PhysicalRelativePath>
+      <BundleName>detail</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\detail\detail.js">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\detail\detail.js</PhysicalRelativePath>
+      <BundleName>detail</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
     <Compile Include="lwc\helloWorld\helloWorld.css">
       <SubType>LightningComponentBundle</SubType>
       <PhysicalRelativePath>src\lwc\helloWorld\helloWorld.css</PhysicalRelativePath>
@@ -419,13 +479,103 @@
       <BundleName>helloWorld</BundleName>
       <MetadataType>LightningComponentBundle</MetadataType>
     </Compile>
+    <Compile Include="lwc\list\list.css">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\list\list.css</PhysicalRelativePath>
+      <BundleName>list</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\list\list.html">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\list\list.html</PhysicalRelativePath>
+      <BundleName>list</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\list\list.js">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\list\list.js</PhysicalRelativePath>
+      <BundleName>list</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\selector\selector.css">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\selector\selector.css</PhysicalRelativePath>
+      <BundleName>selector</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\selector\selector.html">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\selector\selector.html</PhysicalRelativePath>
+      <BundleName>selector</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\selector\selector.js">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\selector\selector.js</PhysicalRelativePath>
+      <BundleName>selector</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\tile\tile.css">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\tile\tile.css</PhysicalRelativePath>
+      <BundleName>tile</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\tile\tile.html">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\tile\tile.html</PhysicalRelativePath>
+      <BundleName>tile</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\tile\tile.js">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\tile\tile.js</PhysicalRelativePath>
+      <BundleName>tile</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="lwc\bikeCard\bikeCard.js-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\lwc\bikeCard\bikeCard.js-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>lwc\bikeCard\bikeCard.js</DependentUpon>
+    </None>
+    <None Include="lwc\data\data.js-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\lwc\data\data.js-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>lwc\data\data.js</DependentUpon>
+    </None>
+    <None Include="lwc\detail\detail.js-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\lwc\detail\detail.js-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>lwc\detail\detail.js</DependentUpon>
+    </None>
     <None Include="lwc\helloWorld\helloWorld.js-meta.xml">
       <SubType>Metadata</SubType>
       <PhysicalRelativePath>src\lwc\helloWorld\helloWorld.js-meta.xml</PhysicalRelativePath>
       <MetadataType>Metadata</MetadataType>
       <DependentUpon>lwc\helloWorld\helloWorld.js</DependentUpon>
+    </None>
+    <None Include="lwc\list\list.js-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\lwc\list\list.js-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>lwc\list\list.js</DependentUpon>
+    </None>
+    <None Include="lwc\selector\selector.js-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\lwc\selector\selector.js-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>lwc\selector\selector.js</DependentUpon>
+    </None>
+    <None Include="lwc\tile\tile.js-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\lwc\tile\tile.js-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>lwc\tile\tile.js</DependentUpon>
     </None>
   </ItemGroup>
 </Project>

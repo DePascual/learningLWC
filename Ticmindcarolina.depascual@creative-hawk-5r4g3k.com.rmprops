@@ -2,27 +2,165 @@
 <RemotePropertiesSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Items>
         <RemoteItemProperties>
+            <ItemKey>src\lwc\bikeCard\bikeCard.css</ItemKey>
+            <Id>0Rd2X00000007kOSAQ</Id>
+            <Hash>RvvkgZzOWXKdEwtm06zLzQ==</Hash>
+            <LastModifiedDateUtcTicks>132361003350000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\bikeCard\bikeCard.html</ItemKey>
+            <Id>0Rd2X00000007kNSAQ</Id>
+            <Hash>aDCKtfA7fRr57w7Etg9OXg==</Hash>
+            <LastModifiedDateUtcTicks>132361003350000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\bikeCard\bikeCard.js</ItemKey>
+            <Id>0Rd2X00000007kLSAQ</Id>
+            <Hash>k+QO4IkFI4VvBuIHzRKuIg==</Hash>
+            <LastModifiedDateUtcTicks>132361003350000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\bikeCard\bikeCard.js-meta.xml</ItemKey>
+            <Hash>bVHQASsr8ik9sLrweWhAZw==</Hash>
+            <LastModifiedDateUtcTicks>132361003350000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\data\data.css</ItemKey>
+            <Id>0Rd2X00000007kYSAQ</Id>
+            <Hash>RvvkgZzOWXKdEwtm06zLzQ==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\data\data.html</ItemKey>
+            <Id>0Rd2X00000007kXSAQ</Id>
+            <Hash>rkmbAUY5liax9nK2ZqAhIw==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\data\data.js</ItemKey>
+            <Id>0Rd2X00000007kVSAQ</Id>
+            <Hash>ufrKnK9h7Tcf/m1jLJgGvA==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\data\data.js-meta.xml</ItemKey>
+            <Hash>xIc4AN65ofF9S2BatpTU8g==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\detail\detail.css</ItemKey>
+            <Id>0Rd2X00000007kdSAA</Id>
+            <Hash>fX9hLpjoAQVyfkOO+YBmMA==</Hash>
+            <LastModifiedDateUtcTicks>132361018920000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\detail\detail.html</ItemKey>
+            <Id>0Rd2X00000007kcSAA</Id>
+            <Hash>YyJUGZxHU4sYhdBBP/AMxQ==</Hash>
+            <LastModifiedDateUtcTicks>132361018920000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\detail\detail.js</ItemKey>
+            <Id>0Rd2X00000007kaSAA</Id>
+            <Hash>WdboXCSCnj0L2L1XvLQUtQ==</Hash>
+            <LastModifiedDateUtcTicks>132361018930000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\detail\detail.js-meta.xml</ItemKey>
+            <Hash>xIc4AN65ofF9S2BatpTU8g==</Hash>
+            <LastModifiedDateUtcTicks>132361018930000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
             <ItemKey>src\lwc\helloWorld\helloWorld.css</ItemKey>
             <Id>0Rd2X00000007B9SAI</Id>
             <Hash>RvvkgZzOWXKdEwtm06zLzQ==</Hash>
-            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+            <LastModifiedDateUtcTicks>132361024340000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
             <ItemKey>src\lwc\helloWorld\helloWorld.html</ItemKey>
             <Id>0Rd2X00000007B8SAI</Id>
-            <Hash>U/dq+tD7O12qtFAGCLEeOA==</Hash>
-            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+            <Hash>oOtcsadaY64Q5oT6pkY4Xg==</Hash>
+            <LastModifiedDateUtcTicks>132361024340000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
             <ItemKey>src\lwc\helloWorld\helloWorld.js</ItemKey>
             <Id>0Rd2X00000007B6SAI</Id>
-            <Hash>Itb2RGWEz07OOmbH1ChyPA==</Hash>
-            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+            <Hash>Bf+r5IXUjy5pD/srVRhfKg==</Hash>
+            <LastModifiedDateUtcTicks>132361024340000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
             <ItemKey>src\lwc\helloWorld\helloWorld.js-meta.xml</ItemKey>
-            <Hash>JQZbOj6mCajXoEEm42p+Ug==</Hash>
-            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+            <Hash>6pR5pdsB0WjnlfmCj4i/Ag==</Hash>
+            <LastModifiedDateUtcTicks>132361024340000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\list\list.css</ItemKey>
+            <Id>0Rd2X00000007kiSAA</Id>
+            <Hash>HBgIXxz0YNruu5Bvx9dUrg==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\list\list.html</ItemKey>
+            <Id>0Rd2X00000007khSAA</Id>
+            <Hash>8JSCgLhNQlE9boLJL+eZUw==</Hash>
+            <LastModifiedDateUtcTicks>132361016110000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\list\list.js</ItemKey>
+            <Id>0Rd2X00000007kfSAA</Id>
+            <Hash>Ls2mj81OQje5eX//fKOOVg==</Hash>
+            <LastModifiedDateUtcTicks>132361016110000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\list\list.js-meta.xml</ItemKey>
+            <Hash>xIc4AN65ofF9S2BatpTU8g==</Hash>
+            <LastModifiedDateUtcTicks>132361016110000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\selector\selector.css</ItemKey>
+            <Id>0Rd2X00000007knSAA</Id>
+            <Hash>g90kDkqQJ8Ky7sYqEjj2fQ==</Hash>
+            <LastModifiedDateUtcTicks>132361020720000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\selector\selector.html</ItemKey>
+            <Id>0Rd2X00000007kmSAA</Id>
+            <Hash>+PfjRrBYZMd+6Lg820e7tw==</Hash>
+            <LastModifiedDateUtcTicks>132361020740000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\selector\selector.js</ItemKey>
+            <Id>0Rd2X00000007kkSAA</Id>
+            <Hash>Pq6cCOmx6evvnFHysSE05w==</Hash>
+            <LastModifiedDateUtcTicks>132361020720000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\selector\selector.js-meta.xml</ItemKey>
+            <Hash>vV38RgGwmU9QZoYd9+IQvQ==</Hash>
+            <LastModifiedDateUtcTicks>132361020720000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\tile\tile.css</ItemKey>
+            <Id>0Rd2X00000007ksSAA</Id>
+            <Hash>iUCjTddNR9NahLhWWdFxLA==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\tile\tile.html</ItemKey>
+            <Id>0Rd2X00000007krSAA</Id>
+            <Hash>MeK/R108ds/i9FMyP3Sv1Q==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\tile\tile.js</ItemKey>
+            <Id>0Rd2X00000007kpSAA</Id>
+            <Hash>lChop8Tz4MqQ0/wDbvLv2A==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\tile\tile.js-meta.xml</ItemKey>
+            <Hash>xIc4AN65ofF9S2BatpTU8g==</Hash>
+            <LastModifiedDateUtcTicks>132361016070000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
             <ItemKey>src\objects\Account.object</ItemKey>
