@@ -2,6 +2,29 @@
 <RemotePropertiesSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Items>
         <RemoteItemProperties>
+            <ItemKey>src\lwc\helloWorld\helloWorld.css</ItemKey>
+            <Id>0Rd2X00000007B9SAI</Id>
+            <Hash>RvvkgZzOWXKdEwtm06zLzQ==</Hash>
+            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\helloWorld\helloWorld.html</ItemKey>
+            <Id>0Rd2X00000007B8SAI</Id>
+            <Hash>U/dq+tD7O12qtFAGCLEeOA==</Hash>
+            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\helloWorld\helloWorld.js</ItemKey>
+            <Id>0Rd2X00000007B6SAI</Id>
+            <Hash>Itb2RGWEz07OOmbH1ChyPA==</Hash>
+            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\lwc\helloWorld\helloWorld.js-meta.xml</ItemKey>
+            <Hash>JQZbOj6mCajXoEEm42p+Ug==</Hash>
+            <LastModifiedDateUtcTicks>132360801470000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
             <ItemKey>src\objects\Account.object</ItemKey>
             <Id>000000000000000AAA</Id>
             <Hash>HD/P6/8rkZam9WVv1KsuOw==</Hash>

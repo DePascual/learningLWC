@@ -17,6 +17,8 @@
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
     <Folder Include="AnonymousApex" />
+    <Folder Include="lwc" />
+    <Folder Include="lwc\helloWorld\" />
     <Folder Include="objects\" />
     <Folder Include="Soql" />
   </ItemGroup>
@@ -397,5 +399,33 @@
       <PhysicalRelativePath>src\objects\WorkThanks.object</PhysicalRelativePath>
       <SubType>Object</SubType>
     </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="lwc\helloWorld\helloWorld.css">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\helloWorld\helloWorld.css</PhysicalRelativePath>
+      <BundleName>helloWorld</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\helloWorld\helloWorld.html">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\helloWorld\helloWorld.html</PhysicalRelativePath>
+      <BundleName>helloWorld</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+    <Compile Include="lwc\helloWorld\helloWorld.js">
+      <SubType>LightningComponentBundle</SubType>
+      <PhysicalRelativePath>src\lwc\helloWorld\helloWorld.js</PhysicalRelativePath>
+      <BundleName>helloWorld</BundleName>
+      <MetadataType>LightningComponentBundle</MetadataType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lwc\helloWorld\helloWorld.js-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\lwc\helloWorld\helloWorld.js-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>lwc\helloWorld\helloWorld.js</DependentUpon>
+    </None>
   </ItemGroup>
 </Project>
